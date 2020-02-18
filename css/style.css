@@ -1,0 +1,12 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.socmed-list {
+    list-style-type: none;
+    display: block;
+}
+
+.socmed-list li a {
+    color: #111;
+}
