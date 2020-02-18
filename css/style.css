@@ -4,7 +4,7 @@
 
 .socmed-list {
     list-style-type: none;
-    display: block;
+    padding-inline-start: 0;
 }
 
 .socmed-list li a {
@@ -13,4 +13,8 @@
 
 .skill {
     margin-bottom: 10px;
+}
+
+.text--dark {
+    color: #585858
 }
